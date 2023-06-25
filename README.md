@@ -1,0 +1,1 @@
+The code uses pygame to have a simple game of pong. I also added in a system to keep score depending on which side the ball goes out of bounds on. The score is then translated to a font shown in the top left corner of the program.
